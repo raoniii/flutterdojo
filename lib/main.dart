@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(MaterialApp(
   home: Scaffold(
-    appBar: AppBar(title: Text('Transfer23'),
+    appBar: AppBar(title: Text('Tranfer New'),
 
 ),
 
@@ -10,7 +10,7 @@ void main() => runApp(MaterialApp(
     onPressed: () {
       // Add your onPressed code here!
     },
-    backgroundColor: Colors.green,
+    backgroundColor: Colors.red,
     child: const Icon(Icons.add),
   ),
 )
