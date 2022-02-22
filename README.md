@@ -6,4 +6,4 @@ A new Flutter project.
 
 Weekly I will try to add new features or fix errors
 
-To tips send me e-mail raonisferreira@gmail.com
+To tips send me a mensage
