@@ -1,7 +1,7 @@
 //tela inicial mostra lista de transferencias
 import 'package:flutter/material.dart';
 import 'package:mobile/models/transferencia.dart';
-import 'package:mobile/screen/transferencias/formulario.dart';
+import 'package:mobile/viewer/transferencias/formulario.dart';
 
 const _tituloAppBar = 'Listatransferencia';
 
